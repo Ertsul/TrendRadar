@@ -39,6 +39,7 @@ aigc
 人工智能
 大模型
 ai 视频
+huggingface
 
 自动驾驶
 
