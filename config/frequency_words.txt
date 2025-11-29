@@ -35,6 +35,7 @@ mac
 ios
 
 ai
+!gai
 aigc
 人工智能
 大模型
